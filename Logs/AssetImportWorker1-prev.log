@@ -1,0 +1,377 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'ru' Physical Memory: 8060 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Admin/Desktop/Notes/Projects/Unity/2020/UenieGD/First Gate
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+62907
+Successfully changed project path to: C:/Users/Admin/Desktop/Notes/Projects/Unity/2020/UenieGD/First Gate
+C:/Users/Admin/Desktop/Notes/Projects/Unity/2020/UenieGD/First Gate
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 116.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Admin/Desktop/Notes/Projects/Unity/2020/UenieGD/First Gate/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Vendor:   
+    VRAM:     2019 MB
+    Driver:   23.21.13.8863
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56492
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001079 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 131.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.049 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.446 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1545 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.4 MB.
+System memory in use after: 162.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2022.
+Total: 2.676700 ms (FindLiveObjects: 0.235300 ms CreateObjectMapping: 0.093900 ms MarkObjects: 2.201800 ms  DeleteObjects: 0.144100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Models/Hero/Ninja/Source/Material_004__BrownEyes_Dif_png_001.mat
+  artifactKey: Guid(7dc1c2c208778e24082bafe33ecdc3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Material_004__BrownEyes_Dif_png_001.mat using Guid(7dc1c2c208778e24082bafe33ecdc3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4314b3c8e4c69c7e42c8cde8ec9951') in 0.316869 seconds
+  Import took 0.342844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Material_007__BrownEyes_Dif_png_001.mat
+  artifactKey: Guid(a73593cdaf0748046a26a9ef52ff3d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Material_007__BrownEyes_Dif_png_001.mat using Guid(a73593cdaf0748046a26a9ef52ff3d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d8b212f64eec35002ba053632c8f8d') in 0.022299 seconds
+  Import took 0.046029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Material_006__Ninja_Dif_png_001.mat
+  artifactKey: Guid(74d346c821f31744da0e1dde4b14bfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Material_006__Ninja_Dif_png_001.mat using Guid(74d346c821f31744da0e1dde4b14bfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc01cb2e19f51ca1af5750569955c02') in 0.034235 seconds
+  Import took 0.050431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Ninja.fbx
+  artifactKey: Guid(c4a473a78c01e4707a5aecb8c4eb6b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Ninja.fbx using Guid(c4a473a78c01e4707a5aecb8c4eb6b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b772f0b086230f24b2b79862681330') in 0.168966 seconds
+  Import took 0.214652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.533808 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Source_v3
+  artifactKey: Guid(64629949550f843b6a74025abfb30c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Source_v3 using Guid(64629949550f843b6a74025abfb30c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e4d21e4ca8a79d406dba32cf9165885') in 0.040441 seconds
+  Import took 0.076824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.209171 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Source_v3/Bow_set_PH
+  artifactKey: Guid(09a139f8b98ed44c18a86c3f73fb84e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Source_v3/Bow_set_PH using Guid(09a139f8b98ed44c18a86c3f73fb84e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '684525ee42b2e381704c7dca71cb8af5') in 0.002442 seconds
+  Import took 0.049814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.608825 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Source_v3/Materials
+  artifactKey: Guid(f98dfb22314a44799a867310c9a46305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Source_v3/Materials using Guid(f98dfb22314a44799a867310c9a46305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891b0ed38f0c88f4dff76715f2022142') in 0.023199 seconds
+  Import took 0.058650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.486227 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Source_v3/Pistol_PH
+  artifactKey: Guid(d1f9c7aa054724f5db22d804ca43e2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Source_v3/Pistol_PH using Guid(d1f9c7aa054724f5db22d804ca43e2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b3b8904142cccda363264fdbcf8f46') in 0.033361 seconds
+  Import took 0.041550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.667750 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Source_v3/Pistol_PH/Materials
+  artifactKey: Guid(82b1ed6dcfff1794fb3265b601c5cd45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Source_v3/Pistol_PH/Materials using Guid(82b1ed6dcfff1794fb3265b601c5cd45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29489150a46b6b536d600d1d4c98cdab') in 0.030899 seconds
+  Import took 0.064596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.832205 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Source_v3/Bow_set_PH/Materials
+  artifactKey: Guid(49de559069599a24f9fd9c4dfcc2b88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Source_v3/Bow_set_PH/Materials using Guid(49de559069599a24f9fd9c4dfcc2b88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f2581a6c4c2af667cc424d7aa464e0') in 0.004164 seconds
+  Import took 0.036165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.892651 seconds.
+  path: Assets/Models/Hero/Ninja/Source/Ninja.fbx
+  artifactKey: Guid(c4a473a78c01e4707a5aecb8c4eb6b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Source/Ninja.fbx using Guid(c4a473a78c01e4707a5aecb8c4eb6b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'D_N_S': 'vert': output parameter 'o' not completely initialized at line 85 (on d3d11)
+
+Compiling Vertex program with DIRECTIONAL LIGHTPROBE_SH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PASS_FORWARDBASE
+Disabled keywords: INSTANCING_ON FOG_LINEAR FOG_EXP FOG_EXP2 SHADOWS_SHADOWMASK DYNAMICLIGHTMAP_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING DIRLIGHTMAP_COMBINED SHADOWS_SCREEN VERTEXLIGHT_ON UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'D_N_S': 'vert': output parameter 'o' not completely initialized at line 85 (on d3d11)
+
+Compiling Vertex program with DIRECTIONAL LIGHTPROBE_SH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING UNITY_PASS_FORWARDBASE
+Disabled keywords: INSTANCING_ON FOG_LINEAR FOG_EXP FOG_EXP2 SHADOWS_SHADOWMASK DYNAMICLIGHTMAP_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING DIRLIGHTMAP_COMBINED SHADOWS_SCREEN VERTEXLIGHT_ON UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+ -> (artifact id: '16b15f904c990bc405400725bbd744c4') in 0.251498 seconds
+  Import took 0.275104 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.040 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.6 MB.
+System memory in use after: 166.7 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2067.
+Total: 9.052800 ms (FindLiveObjects: 0.293300 ms CreateObjectMapping: 0.109400 ms MarkObjects: 8.604400 ms  DeleteObjects: 0.043600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003671 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.033 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.7 MB.
+System memory in use after: 166.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2069.
+Total: 10.693800 ms (FindLiveObjects: 0.301500 ms CreateObjectMapping: 0.124400 ms MarkObjects: 10.229500 ms  DeleteObjects: 0.036000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 544.901726 seconds.
+  path: Assets/Models/Hero/Ninja/Shader/D_N_S.shader
+  artifactKey: Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Shader/D_N_S.shader using Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795639bec9497f1f8e57bef68770f6e4') in 0.019109 seconds
+  Import took 0.079866 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.054 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.7 MB.
+System memory in use after: 166.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2071.
+Total: 3.220000 ms (FindLiveObjects: 0.571300 ms CreateObjectMapping: 0.187900 ms MarkObjects: 2.424300 ms  DeleteObjects: 0.033300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018702 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.374 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.7 MB.
+System memory in use after: 166.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2073.
+Total: 2.882300 ms (FindLiveObjects: 0.343100 ms CreateObjectMapping: 0.125400 ms MarkObjects: 2.360700 ms  DeleteObjects: 0.050200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 447.000667 seconds.
+  path: Assets/Models/Hero/Ninja/Shader
+  artifactKey: Guid(5249a102e4d914654ba81e6a9382ca9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Shader using Guid(5249a102e4d914654ba81e6a9382ca9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd3b64f9b339bb4df8484088aa3c8001') in 0.037493 seconds
+  Import took 0.071489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.176899 seconds.
+  path: Assets/Models/Hero/Ninja/Shader/D_N_S.shader
+  artifactKey: Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Shader/D_N_S.shader using Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fadaa5e2f3b63b151c6aa0540dd9260') in 0.021073 seconds
+  Import took 0.064235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.290504 seconds.
+  path: Assets/Models/Hero/Ninja/Shader/D_N_S.shader
+  artifactKey: Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Shader/D_N_S.shader using Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8feb402a6ca43c39a5fdc86ad2d3e8a4') in 0.009605 seconds
+  Import took 0.069931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006553 seconds.
+  path: Assets/Models/Hero/Ninja/Shader/D_N_S.shader
+  artifactKey: Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Shader/D_N_S.shader using Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8feb402a6ca43c39a5fdc86ad2d3e8a4') in 0.003935 seconds
+  Import took 0.009331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.595855 seconds.
+  path: Assets/Models/Hero/Ninja/Shader/D_N_S.shader
+  artifactKey: Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Shader/D_N_S.shader using Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7c9b174383ab54930cb7dcb0d6929d') in 0.012322 seconds
+  Import took 0.092904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008525 seconds.
+  path: Assets/Models/Hero/Ninja/Shader/D_N_S.shader
+  artifactKey: Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Shader/D_N_S.shader using Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7c9b174383ab54930cb7dcb0d6929d') in 0.009621 seconds
+  Import took 0.013740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 836.943461 seconds.
+  path: Assets/Models/Hero/Ninja/Shader/D_N_S.shader
+  artifactKey: Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Hero/Ninja/Shader/D_N_S.shader using Guid(a43c4d9e07f2f1640a0230b83c73d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '341dd61408698877c0bffff8e2546a79') in 0.004361 seconds
+  Import took 0.034064 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003922 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.321 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.7 MB.
+System memory in use after: 166.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2075.
+Total: 3.949000 ms (FindLiveObjects: 0.319800 ms CreateObjectMapping: 0.128900 ms MarkObjects: 3.459500 ms  DeleteObjects: 0.038800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004219 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.400 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.7 MB.
+System memory in use after: 166.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2077.
+Total: 2.100200 ms (FindLiveObjects: 0.210300 ms CreateObjectMapping: 0.068700 ms MarkObjects: 1.791100 ms  DeleteObjects: 0.028500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
